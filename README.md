@@ -4,6 +4,8 @@
 - 🌱 I’d like to learn [Rust](https://www.rust-lang.org/)...just waiting for the right project.
 - 📫 How to reach me: rturnbull+git@gmail.com 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rhettbull)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RhetTbull/RhetTbull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
