@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on reverse engineering Apple Photos to enhance my [osxphotos](https://github.com/RhetTbull/osxphotos) python package.
+- 😄 I'm a self-taught hobbyist who codes in my spare time
+- 🔭 I’m currently working on reverse engineering Apple Photos to enhance my [osxphotos](https://github.com/RhetTbull/osxphotos) python package--come take a look!
 - ⚡ I've written useful stuff in JOVIAL, BASIC (TRS-80 Level I, GW-BASIC, QBASIC, Visual Basic), Pascal, Fortran-77, C, ASM, AppleScript, Perl, Ruby, and Python.  My latest crush is Python 🐍.
 - 🌱 I’d like to learn [Rust](https://www.rust-lang.org/)...just waiting for the right project.
 - 📫 How to reach me: rturnbull+git@gmail.com 
