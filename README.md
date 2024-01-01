@@ -6,6 +6,8 @@
 - 🌱 I’d like to learn [Rust](https://www.rust-lang.org/)...just waiting for the right project.
 - 📫 How to reach me: rturnbull+git@gmail.com, <a rel="me" href="https://fosstodon.org/@RhetTbull">Mastodon</a>, <a rel="me" href="https://twitter.com/RhetTurnbull">Twitter</a>
 
+Unless otherwise stated, any code published in my [public gists](https://gist.github.com/RhetTbull) is licensed under the MIT License.
+
 <!-- [![Rhet's Github stats](https://github-readme-stats.vercel.app/api?username=rhettbull)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
