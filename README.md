@@ -6,6 +6,15 @@
 - 🌱 I’d like to learn [Rust](https://www.rust-lang.org/)...just waiting for the right project.
 - 📫 How to reach me: rturnbull+git@gmail.com, <a rel="me" href="https://fosstodon.org/@RhetTbull">Mastodon</a>, <a rel="me" href="https://twitter.com/RhetTurnbull">Twitter</a>
 
+### Featured Projects
+
+Some of my code has been featured on podcasts.
+
+- [Textinator](https://github.com/RhetTbull/textinator) featured on [TalkPython Episode 383](https://talkpython.fm/episodes/show/383/textinator-and-building-macos-apps-with-python) and [Python Bytes Episode 289](https://pythonbytes.fm/episodes/show/289/textinator-is-coming-for-your-text-wherever-it-is)
+- [AppleCrate](https://github.com/RhetTbull/applecrate) featured on [Python Bytes Episode 371](https://pythonbytes.fm/episodes/show/371/python-in-a-crate)
+
+### License
+
 Unless otherwise stated, any code published in my [public gists](https://gist.github.com/RhetTbull) is licensed under the MIT License.
 
 <!-- [![Rhet's Github stats](https://github-readme-stats.vercel.app/api?username=rhettbull)](https://github.com/anuraghazra/github-readme-stats) -->
