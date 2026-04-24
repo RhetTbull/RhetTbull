@@ -4,7 +4,7 @@
 - ⚡ I've worked in JOVIAL, BASIC (TRS-80 Level I, GW-BASIC, QBASIC, Visual Basic), Pascal, Fortran-77, C, ASM, AppleScript, Perl, Ruby, and Python.  My latest crush is Python 🐍.
 - 📗 I'm currently learning Swift.
 - 🌱 I’d like to learn [Rust](https://www.rust-lang.org/) and Clojure...just waiting for the right project.
-- 📫 How to reach me: rturnbull+git@gmail.com, <a rel="me" href="https://fosstodon.org/@RhetTbull">Mastodon</a>, <a rel="me" href="https://twitter.com/RhetTurnbull">Twitter</a>
+- 📫 How to reach me: rturnbull+git@gmail.com, <a rel="me" href="https://fosstodon.org/@RhetTbull">Mastodon</a>, <a rel="me" href="https://x.com/RhetTurnbull">X</a>
 
 ### Featured Projects
 
